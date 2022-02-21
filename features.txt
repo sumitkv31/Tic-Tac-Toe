@@ -1,0 +1,15 @@
+1. Configure player names --> forms with input field in modal 
+                              overlay || also validate user input and show validation feedback
+
+
+2. (Re-)Start Game --> "Start Game" button should clear current 
+                        game board or "Game over" message
+
+
+3. Turn-based Gameplay --> Turns should switch automatically between the 
+                            two players, every player has his/her own symbol
+
+4. Select Field and Check for Winner --> Game field are clickable and the player's 
+                                        symbol is displayed; Check for winner after every turn 
+
+5. Show "Game Over" window --> show "Draw" or "Winner" 
